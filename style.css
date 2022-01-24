@@ -1,0 +1,42 @@
+.bodybg {
+    background: #E3DEDB;
+}
+.font {
+    font-family: 'Rubik Beastly', cursive;
+    color:black;
+}
+.font1 {
+    font-family: 'Rubik Beastly', cursive;
+    color:greenyellow;
+}
+.font2 {
+    font-family: 'Rubik Beastly', cursive;
+    color:greenyellow;
+    font-size:23px;
+    font-weight:100;
+}
+.font3{
+    font-family: 'Rubik Beastly', cursive;
+    color: black;
+    font-size: 18px;
+    font-weight: 100;
+}
+.font4{
+    font-family:Algerian;
+    font-size:50px;
+    font-weight:700;
+}
+.font5 {
+    font-family:'Times New Roman';
+    font-size: 25x;
+    font-weight: 200;
+}
+.far{
+    height:20px;
+    width:20px;
+    
+}
+.img-size{
+    height:50px;
+    width:200px;
+}
